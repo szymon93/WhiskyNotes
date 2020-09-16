@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Whisky Notes</string>
+    <string name="action_settings">Settings</string>
+	  <string name="open_notes">Otwórz notes</string>
+		<string name="notes">Notes whisky</string>
+		<string name="whisky_name">Nazwa whisky</string>
+		<string name="whisky_smell">Zapach</string>
+		<string name="whisky_taste">Smak</string>
+		<string name="whisky_balans">Balans</string>
+		<string name="whisky_finish">Finisz</string>
+		<string name="add_new_whisky_title">Dodaj nowe whisky</string>
+		<string name="add_new_whisky_button">Dodaj whisky</string>
+		<string name="add_whisky_button">Dodaj</string>
+</resources>
